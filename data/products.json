@@ -5,7 +5,7 @@
     "description": "An adjustable aluminum desk lamp with warm and cool light modes for focused work and late-night reading.",
     "price": 79,
     "category": "Workspace",
-    "image": "/products/workspace-collection.svg",
+    "image": "https://placehold.co/900x900/e2e8f0/0f172a?text=Aurora+Desk+Lamp",
     "stock": 14,
     "featured": true
   },
@@ -15,9 +15,39 @@
     "description": "A set of three cloth-bound notebooks with dotted paper, perfect for planning, sketching, or journaling.",
     "price": 28,
     "category": "Workspace",
-    "image": "/products/workspace-collection.svg",
+    "image": "https://placehold.co/900x900/f5f5f4/1f2937?text=Linen+Notebook+Set",
     "stock": 32,
     "featured": false
+  },
+  {
+    "id": "ripple-ceramic-mug",
+    "name": "Ripple Ceramic Mug",
+    "description": "A hand-finished ceramic mug with a rippled grip and a generous capacity for coffee or tea.",
+    "price": 24,
+    "category": "Home",
+    "image": "https://placehold.co/900x900/fafaf9/0f172a?text=Ripple+Ceramic+Mug",
+    "stock": 20,
+    "featured": false
+  },
+  {
+    "id": "solstice-speaker",
+    "name": "Solstice Speaker",
+    "description": "A compact wireless speaker with rich bass, USB-C charging, and 14 hours of battery life.",
+    "price": 129,
+    "category": "Audio",
+    "image": "https://placehold.co/900x900/e0f2fe/082f49?text=Solstice+Speaker",
+    "stock": 9,
+    "featured": true
+  },
+  {
+    "id": "wayfinder-backpack",
+    "name": "Wayfinder Backpack",
+    "description": "A water-resistant 20L backpack with padded laptop sleeve, quick-access pockets, and hidden passport storage.",
+    "price": 148,
+    "category": "Travel",
+    "image": "https://placehold.co/900x900/ede9fe/312e81?text=Wayfinder+Backpack",
+    "stock": 11,
+    "featured": true
   },
   {
     "id": "glide-mouse",
@@ -25,7 +55,7 @@
     "description": "An ergonomic wireless mouse with silent clicks, programmable buttons, and precision tracking.",
     "price": 54,
     "category": "Workspace",
-    "image": "/products/workspace-collection.svg",
+    "image": "https://placehold.co/900x900/ecfccb/365314?text=Glide+Wireless+Mouse",
     "stock": 18,
     "featured": false
   },
@@ -35,368 +65,8 @@
     "description": "A modular cable tray and clip set that keeps chargers, hubs, and cords tucked neatly away.",
     "price": 34,
     "category": "Workspace",
-    "image": "/products/workspace-collection.svg",
+    "image": "https://placehold.co/900x900/fef3c7/78350f?text=Cove+Cable+Organizer",
     "stock": 40,
-    "featured": false
-  },
-  {
-    "id": "ember-standing-desk",
-    "name": "Ember Standing Desk",
-    "description": "A compact sit-stand desk with memory presets, oak finish, and cable passthrough for tidy workdays.",
-    "price": 499,
-    "category": "Workspace",
-    "image": "/products/workspace-collection.svg",
-    "stock": 8,
-    "featured": true
-  },
-  {
-    "id": "harbor-monitor-stand",
-    "name": "Harbor Monitor Stand",
-    "description": "A walnut riser that lifts your display, hides small accessories, and creates room for keyboards below.",
-    "price": 62,
-    "category": "Workspace",
-    "image": "/products/workspace-collection.svg",
-    "stock": 19,
-    "featured": false
-  },
-  {
-    "id": "atlas-keyboard",
-    "name": "Atlas Mechanical Keyboard",
-    "description": "A low-profile mechanical keyboard with tactile switches, hot-swap sockets, and soft white backlighting.",
-    "price": 139,
-    "category": "Workspace",
-    "image": "/products/workspace-collection.svg",
-    "stock": 12,
-    "featured": true
-  },
-  {
-    "id": "orbit-webcam-light",
-    "name": "Orbit Webcam Light",
-    "description": "A clip-on ring light tuned for calls, streams, and late-night meetings with adjustable warmth.",
-    "price": 44,
-    "category": "Workspace",
-    "image": "/products/workspace-collection.svg",
-    "stock": 27,
-    "featured": false
-  },
-  {
-    "id": "prism-pen-cup",
-    "name": "Prism Pen Cup",
-    "description": "A weighted steel organizer for pens, scissors, and styluses with a powder-coated matte finish.",
-    "price": 22,
-    "category": "Workspace",
-    "image": "/products/workspace-collection.svg",
-    "stock": 38,
-    "featured": false
-  },
-  {
-    "id": "hush-desk-mat",
-    "name": "Hush Desk Mat",
-    "description": "A vegan leather desk mat that softens keyboard noise and protects surfaces from scratches and spills.",
-    "price": 46,
-    "category": "Workspace",
-    "image": "/products/workspace-collection.svg",
-    "stock": 24,
-    "featured": false
-  },
-  {
-    "id": "ripple-ceramic-mug",
-    "name": "Ripple Ceramic Mug",
-    "description": "A hand-finished ceramic mug with a rippled grip and a generous capacity for coffee or tea.",
-    "price": 24,
-    "category": "Home",
-    "image": "/products/home-collection.svg",
-    "stock": 20,
-    "featured": false
-  },
-  {
-    "id": "drift-throw-blanket",
-    "name": "Drift Throw Blanket",
-    "description": "A soft woven blanket with a breathable cotton blend and reversible tonal pattern.",
-    "price": 86,
-    "category": "Home",
-    "image": "/products/home-collection.svg",
-    "stock": 7,
-    "featured": true
-  },
-  {
-    "id": "ember-candle-set",
-    "name": "Ember Candle Set",
-    "description": "A trio of soy candles in cedar, fig, and amber glass jars designed for slow evenings at home.",
-    "price": 48,
-    "category": "Home",
-    "image": "/products/home-collection.svg",
-    "stock": 15,
-    "featured": false
-  },
-  {
-    "id": "willow-serving-tray",
-    "name": "Willow Serving Tray",
-    "description": "A rounded ash wood tray for breakfast in bed, coffee service, or styling the living room table.",
-    "price": 58,
-    "category": "Home",
-    "image": "/products/home-collection.svg",
-    "stock": 13,
-    "featured": false
-  },
-  {
-    "id": "grove-planter",
-    "name": "Grove Planter",
-    "description": "A self-watering indoor planter with a hidden reservoir and stoneware texture for small greens.",
-    "price": 36,
-    "category": "Home",
-    "image": "/products/home-collection.svg",
-    "stock": 22,
-    "featured": false
-  },
-  {
-    "id": "hearth-table-lamp",
-    "name": "Hearth Table Lamp",
-    "description": "A dimmable bedside lamp with a linen shade and warm brass stem for a softer nighttime glow.",
-    "price": 94,
-    "category": "Home",
-    "image": "/products/home-collection.svg",
-    "stock": 11,
-    "featured": true
-  },
-  {
-    "id": "salt-stone-coasters",
-    "name": "Salt Stone Coasters",
-    "description": "A set of four sandstone coasters with cork backs to protect wood surfaces from rings and heat.",
-    "price": 26,
-    "category": "Home",
-    "image": "/products/home-collection.svg",
-    "stock": 31,
-    "featured": false
-  },
-  {
-    "id": "dune-storage-basket",
-    "name": "Dune Storage Basket",
-    "description": "A woven cotton basket with reinforced handles for throws, toys, or entryway catch-all storage.",
-    "price": 42,
-    "category": "Home",
-    "image": "/products/home-collection.svg",
-    "stock": 17,
-    "featured": false
-  },
-  {
-    "id": "harbor-wall-clock",
-    "name": "Harbor Wall Clock",
-    "description": "A silent sweep wall clock with matte numerals and a deep frame that suits calm modern interiors.",
-    "price": 68,
-    "category": "Home",
-    "image": "/products/home-collection.svg",
-    "stock": 10,
-    "featured": false
-  },
-  {
-    "id": "moss-linen-pillow",
-    "name": "Moss Linen Pillow",
-    "description": "A linen accent pillow with feather insert and washed texture that layers easily on sofas and beds.",
-    "price": 39,
-    "category": "Home",
-    "image": "/products/home-collection.svg",
-    "stock": 29,
-    "featured": false
-  },
-  {
-    "id": "solstice-speaker",
-    "name": "Solstice Speaker",
-    "description": "A compact wireless speaker with rich bass, USB-C charging, and 14 hours of battery life.",
-    "price": 129,
-    "category": "Audio",
-    "image": "/products/audio-collection.svg",
-    "stock": 9,
-    "featured": true
-  },
-  {
-    "id": "pulse-headphones",
-    "name": "Pulse Headphones",
-    "description": "Over-ear noise-canceling headphones with plush memory foam cushions and fast charging.",
-    "price": 219,
-    "category": "Audio",
-    "image": "/products/audio-collection.svg",
-    "stock": 6,
-    "featured": true
-  },
-  {
-    "id": "echo-earbuds",
-    "name": "Echo Earbuds",
-    "description": "True wireless earbuds with transparency mode, pocket charging case, and crisp call microphones.",
-    "price": 99,
-    "category": "Audio",
-    "image": "/products/audio-collection.svg",
-    "stock": 21,
-    "featured": false
-  },
-  {
-    "id": "vinyl-turntable",
-    "name": "Vinyl Turntable",
-    "description": "A belt-drive turntable with Bluetooth output, walnut plinth, and switchable phono preamp.",
-    "price": 289,
-    "category": "Audio",
-    "image": "/products/audio-collection.svg",
-    "stock": 5,
-    "featured": false
-  },
-  {
-    "id": "wave-soundbar",
-    "name": "Wave Soundbar",
-    "description": "A slim soundbar with Dolby Audio support, HDMI ARC, and tailored voice enhancement for TV nights.",
-    "price": 179,
-    "category": "Audio",
-    "image": "/products/audio-collection.svg",
-    "stock": 14,
-    "featured": false
-  },
-  {
-    "id": "studio-usb-mic",
-    "name": "Studio USB Mic",
-    "description": "A desktop condenser microphone with tap-to-mute control and cardioid pickup for recording or streaming.",
-    "price": 119,
-    "category": "Audio",
-    "image": "/products/audio-collection.svg",
-    "stock": 12,
-    "featured": false
-  },
-  {
-    "id": "comet-radio",
-    "name": "Comet Radio",
-    "description": "A compact digital radio with Bluetooth playback, alarm presets, and a tactile tuning dial.",
-    "price": 74,
-    "category": "Audio",
-    "image": "/products/audio-collection.svg",
-    "stock": 16,
-    "featured": false
-  },
-  {
-    "id": "chord-speaker-stand",
-    "name": "Chord Speaker Stand",
-    "description": "A pair of powder-coated stands that angle bookshelf speakers for cleaner stereo imaging.",
-    "price": 88,
-    "category": "Audio",
-    "image": "/products/audio-collection.svg",
-    "stock": 18,
-    "featured": false
-  },
-  {
-    "id": "lucid-sleep-sound-machine",
-    "name": "Lucid Sleep Sound Machine",
-    "description": "A bedside sound machine with fan, rain, and ocean loops plus a soft amber night mode.",
-    "price": 59,
-    "category": "Audio",
-    "image": "/products/audio-collection.svg",
-    "stock": 25,
-    "featured": false
-  },
-  {
-    "id": "ember-podcast-boom-arm",
-    "name": "Ember Podcast Boom Arm",
-    "description": "A low-profile boom arm that keeps microphones stable and out of frame during calls and recording.",
-    "price": 69,
-    "category": "Audio",
-    "image": "/products/audio-collection.svg",
-    "stock": 20,
-    "featured": false
-  },
-  {
-    "id": "wayfinder-backpack",
-    "name": "Wayfinder Backpack",
-    "description": "A water-resistant 20L backpack with padded laptop sleeve, quick-access pockets, and hidden passport storage.",
-    "price": 148,
-    "category": "Travel",
-    "image": "/products/travel-collection.svg",
-    "stock": 11,
-    "featured": true
-  },
-  {
-    "id": "atlas-passport-wallet",
-    "name": "Atlas Passport Wallet",
-    "description": "A slim leather travel wallet with RFID blocking, boarding pass sleeve, and coin pocket.",
-    "price": 58,
-    "category": "Travel",
-    "image": "/products/travel-collection.svg",
-    "stock": 15,
-    "featured": false
-  },
-  {
-    "id": "transit-packing-cubes",
-    "name": "Transit Packing Cubes",
-    "description": "A six-piece nesting cube set that keeps clothes, chargers, and laundry organized on the move.",
-    "price": 45,
-    "category": "Travel",
-    "image": "/products/travel-collection.svg",
-    "stock": 33,
-    "featured": false
-  },
-  {
-    "id": "roam-weekender",
-    "name": "Roam Weekender",
-    "description": "A structured overnight duffel with shoe compartment, trolley sleeve, and recycled canvas shell.",
-    "price": 132,
-    "category": "Travel",
-    "image": "/products/travel-collection.svg",
-    "stock": 9,
-    "featured": true
-  },
-  {
-    "id": "trail-luggage-tag",
-    "name": "Trail Luggage Tag",
-    "description": "A durable silicone luggage tag with hidden contact card and secure stainless tether.",
-    "price": 18,
-    "category": "Travel",
-    "image": "/products/travel-collection.svg",
-    "stock": 42,
-    "featured": false
-  },
-  {
-    "id": "horizon-neck-pillow",
-    "name": "Horizon Neck Pillow",
-    "description": "A memory foam travel pillow with magnetic closure and machine-washable jersey cover.",
-    "price": 38,
-    "category": "Travel",
-    "image": "/products/travel-collection.svg",
-    "stock": 26,
-    "featured": false
-  },
-  {
-    "id": "carry-on-dopp-kit",
-    "name": "Carry-On Dopp Kit",
-    "description": "A spill-resistant toiletry kit with hanging hook, clear pocket panels, and wipe-clean lining.",
-    "price": 41,
-    "category": "Travel",
-    "image": "/products/travel-collection.svg",
-    "stock": 28,
-    "featured": false
-  },
-  {
-    "id": "summit-tech-pouch",
-    "name": "Summit Tech Pouch",
-    "description": "A zip-flat organizer for adapters, cables, SSDs, and pens with elastic interior loops.",
-    "price": 36,
-    "category": "Travel",
-    "image": "/products/travel-collection.svg",
-    "stock": 35,
-    "featured": false
-  },
-  {
-    "id": "voyage-travel-journal",
-    "name": "Voyage Travel Journal",
-    "description": "A lay-flat travel journal with prompts, map pages, and archival paper for trip memories.",
-    "price": 27,
-    "category": "Travel",
-    "image": "/products/travel-collection.svg",
-    "stock": 22,
-    "featured": false
-  },
-  {
-    "id": "compass-umbrella",
-    "name": "Compass Umbrella",
-    "description": "A wind-resistant compact umbrella with reflective trim and automatic open-close handle.",
-    "price": 33,
-    "category": "Travel",
-    "image": "/products/travel-collection.svg",
-    "stock": 30,
     "featured": false
   },
   {
@@ -405,9 +75,39 @@
     "description": "A double-wall stainless steel bottle that keeps drinks cold for 24 hours and hot for 12.",
     "price": 32,
     "category": "Wellness",
-    "image": "/products/wellness-collection.svg",
+    "image": "https://placehold.co/900x900/d1fae5/064e3b?text=Summit+Water+Bottle",
     "stock": 26,
+    "featured": false
+  },
+  {
+    "id": "drift-throw-blanket",
+    "name": "Drift Throw Blanket",
+    "description": "A soft woven blanket with a breathable cotton blend and reversible tonal pattern.",
+    "price": 86,
+    "category": "Home",
+    "image": "https://placehold.co/900x900/fce7f3/831843?text=Drift+Throw+Blanket",
+    "stock": 7,
+    "featured": false
+  },
+  {
+    "id": "pulse-headphones",
+    "name": "Pulse Headphones",
+    "description": "Over-ear noise-canceling headphones with plush memory foam cushions and fast charging.",
+    "price": 219,
+    "category": "Audio",
+    "image": "https://placehold.co/900x900/e5e7eb/111827?text=Pulse+Headphones",
+    "stock": 6,
     "featured": true
+  },
+  {
+    "id": "atlas-passport-wallet",
+    "name": "Atlas Passport Wallet",
+    "description": "A slim leather travel wallet with RFID blocking, boarding pass sleeve, and coin pocket.",
+    "price": 58,
+    "category": "Travel",
+    "image": "https://placehold.co/900x900/fee2e2/7f1d1d?text=Atlas+Passport+Wallet",
+    "stock": 15,
+    "featured": false
   },
   {
     "id": "meadow-aroma-diffuser",
@@ -415,88 +115,8 @@
     "description": "A quiet ultrasonic diffuser with ambient glow, timer presets, and a matte ceramic finish.",
     "price": 64,
     "category": "Wellness",
-    "image": "/products/wellness-collection.svg",
+    "image": "https://placehold.co/900x900/ede9fe/4c1d95?text=Meadow+Aroma+Diffuser",
     "stock": 13,
-    "featured": false
-  },
-  {
-    "id": "balance-yoga-mat",
-    "name": "Balance Yoga Mat",
-    "description": "A grippy natural rubber mat with alignment lines and cushioned support for home practice.",
-    "price": 72,
-    "category": "Wellness",
-    "image": "/products/wellness-collection.svg",
-    "stock": 17,
-    "featured": true
-  },
-  {
-    "id": "restore-foam-roller",
-    "name": "Restore Foam Roller",
-    "description": "A textured recovery roller with dual-density zones for post-run mobility and muscle release.",
-    "price": 44,
-    "category": "Wellness",
-    "image": "/products/wellness-collection.svg",
-    "stock": 21,
-    "featured": false
-  },
-  {
-    "id": "sunrise-alarm-clock",
-    "name": "Sunrise Alarm Clock",
-    "description": "A wake light that simulates dawn, adds calming sounds, and supports gentle evening wind-downs.",
-    "price": 89,
-    "category": "Wellness",
-    "image": "/products/wellness-collection.svg",
-    "stock": 10,
-    "featured": false
-  },
-  {
-    "id": "cloud-eye-mask",
-    "name": "Cloud Eye Mask",
-    "description": "A softly contoured sleep mask with blackout lining and adjustable strap for flights or naps.",
-    "price": 19,
-    "category": "Wellness",
-    "image": "/products/wellness-collection.svg",
-    "stock": 34,
-    "featured": false
-  },
-  {
-    "id": "zen-massage-ball-set",
-    "name": "Zen Massage Ball Set",
-    "description": "A cork massage ball duo for feet, shoulders, and targeted tension relief after long desk days.",
-    "price": 24,
-    "category": "Wellness",
-    "image": "/products/wellness-collection.svg",
-    "stock": 28,
-    "featured": false
-  },
-  {
-    "id": "daily-vitamin-case",
-    "name": "Daily Vitamin Case",
-    "description": "A compact seven-day organizer with removable pods that slips neatly into work or gym bags.",
-    "price": 16,
-    "category": "Wellness",
-    "image": "/products/wellness-collection.svg",
-    "stock": 46,
-    "featured": false
-  },
-  {
-    "id": "breeze-humidifier",
-    "name": "Breeze Humidifier",
-    "description": "A top-fill humidifier with whisper-quiet mist, auto shutoff, and a slim bedroom-friendly footprint.",
-    "price": 78,
-    "category": "Wellness",
-    "image": "/products/wellness-collection.svg",
-    "stock": 12,
-    "featured": false
-  },
-  {
-    "id": "calm-weighted-wrap",
-    "name": "Calm Weighted Wrap",
-    "description": "A microwaveable shoulder wrap with gentle weight and flaxseed fill for cozy evening recovery.",
-    "price": 52,
-    "category": "Wellness",
-    "image": "/products/wellness-collection.svg",
-    "stock": 18,
     "featured": false
   }
 ]

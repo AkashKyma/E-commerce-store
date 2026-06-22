@@ -4,8 +4,6 @@ import type { Product } from '@/src/types';
 import { formatCurrency } from '@/src/utils';
 
 export function ProductCard({ product }: { product: Product }) {
-  const isSvgImage = product.image.endsWith('.svg');
-
   return (
     <article className="group overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-soft">
       <Link href={`/products/${product.id}`} className="block">
@@ -14,7 +12,6 @@ export function ProductCard({ product }: { product: Product }) {
             src={product.image}
             alt={product.name}
             fill
-            unoptimized={isSvgImage}
             className="object-cover transition duration-300 group-hover:scale-105"
             sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 25vw"
           />

@@ -1,9 +1,23 @@
 # Changelog
 
-## PAP-445 - Product images restored and catalog expanded
+All notable changes to this project will be documented in this file.
 
-- replaced brittle remote placeholder image usage with local product artwork paths under `public/products`
-- seeded the storefront with **50 products** for fuller browsing and QA coverage
-- balanced the catalog across Workspace, Home, Audio, Travel, and Wellness categories
-- ensured product cards and product detail pages can render SVG-backed local imagery reliably
-- improved release readiness documentation for setup, validation, and deployment handoff
+## [PAP-444] - 2026-06-22
+
+### Added
+
+- Complete e-commerce storefront built with Next.js 14 App Router, TypeScript, and Tailwind CSS
+- Home page hero banner and featured products section
+- Product catalog page with category filtering and sorting controls
+- Product detail pages with quantity selection and add-to-cart interactions
+- localStorage-backed shopping cart with live navbar badge updates
+- Cart page with quantity controls, remove actions, subtotal, tax, and total summary
+- Checkout page with shipping address form and Stripe-ready payment field UI
+- Order success page with thank-you message and mock order number
+- Static product data source in `data/products.json`
+- Responsive storefront layout for mobile and desktop views
+
+### Documentation
+
+- README updated with feature overview, setup steps, run/build commands, and delivery summary
+- Implementation notes added for deployment and PR handoff clarity

@@ -12,7 +12,6 @@ export function ProductDetail({ product }: { product: Product }) {
   const { addToCart } = useCart();
   const [quantity, setQuantity] = useState(1);
   const [showToast, setShowToast] = useState(false);
-  const isSvgImage = product.image.endsWith('.svg');
 
   useEffect(() => {
     if (!showToast) {
@@ -38,7 +37,6 @@ export function ProductDetail({ product }: { product: Product }) {
             src={product.image}
             alt={product.name}
             fill
-            unoptimized={isSvgImage}
             className="object-cover"
             sizes="(max-width: 1024px) 100vw, 50vw"
           />
