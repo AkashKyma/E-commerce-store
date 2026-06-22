@@ -1,0 +1,122 @@
+[
+  {
+    "id": "aurora-desk-lamp",
+    "name": "Aurora Desk Lamp",
+    "description": "An adjustable aluminum desk lamp with warm and cool light modes for focused work and late-night reading.",
+    "price": 79,
+    "category": "Workspace",
+    "image": "https://placehold.co/900x900/e2e8f0/0f172a?text=Aurora+Desk+Lamp",
+    "stock": 14,
+    "featured": true
+  },
+  {
+    "id": "linen-notebook-set",
+    "name": "Linen Notebook Set",
+    "description": "A set of three cloth-bound notebooks with dotted paper, perfect for planning, sketching, or journaling.",
+    "price": 28,
+    "category": "Workspace",
+    "image": "https://placehold.co/900x900/f5f5f4/1f2937?text=Linen+Notebook+Set",
+    "stock": 32,
+    "featured": false
+  },
+  {
+    "id": "ripple-ceramic-mug",
+    "name": "Ripple Ceramic Mug",
+    "description": "A hand-finished ceramic mug with a rippled grip and a generous capacity for coffee or tea.",
+    "price": 24,
+    "category": "Home",
+    "image": "https://placehold.co/900x900/fafaf9/0f172a?text=Ripple+Ceramic+Mug",
+    "stock": 20,
+    "featured": false
+  },
+  {
+    "id": "solstice-speaker",
+    "name": "Solstice Speaker",
+    "description": "A compact wireless speaker with rich bass, USB-C charging, and 14 hours of battery life.",
+    "price": 129,
+    "category": "Audio",
+    "image": "https://placehold.co/900x900/e0f2fe/082f49?text=Solstice+Speaker",
+    "stock": 9,
+    "featured": true
+  },
+  {
+    "id": "wayfinder-backpack",
+    "name": "Wayfinder Backpack",
+    "description": "A water-resistant 20L backpack with padded laptop sleeve, quick-access pockets, and hidden passport storage.",
+    "price": 148,
+    "category": "Travel",
+    "image": "https://placehold.co/900x900/ede9fe/312e81?text=Wayfinder+Backpack",
+    "stock": 11,
+    "featured": true
+  },
+  {
+    "id": "glide-mouse",
+    "name": "Glide Wireless Mouse",
+    "description": "An ergonomic wireless mouse with silent clicks, programmable buttons, and precision tracking.",
+    "price": 54,
+    "category": "Workspace",
+    "image": "https://placehold.co/900x900/ecfccb/365314?text=Glide+Wireless+Mouse",
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": "cove-cable-organizer",
+    "name": "Cove Cable Organizer",
+    "description": "A modular cable tray and clip set that keeps chargers, hubs, and cords tucked neatly away.",
+    "price": 34,
+    "category": "Workspace",
+    "image": "https://placehold.co/900x900/fef3c7/78350f?text=Cove+Cable+Organizer",
+    "stock": 40,
+    "featured": false
+  },
+  {
+    "id": "summit-water-bottle",
+    "name": "Summit Water Bottle",
+    "description": "A double-wall stainless steel bottle that keeps drinks cold for 24 hours and hot for 12.",
+    "price": 32,
+    "category": "Wellness",
+    "image": "https://placehold.co/900x900/d1fae5/064e3b?text=Summit+Water+Bottle",
+    "stock": 26,
+    "featured": false
+  },
+  {
+    "id": "drift-throw-blanket",
+    "name": "Drift Throw Blanket",
+    "description": "A soft woven blanket with a breathable cotton blend and reversible tonal pattern.",
+    "price": 86,
+    "category": "Home",
+    "image": "https://placehold.co/900x900/fce7f3/831843?text=Drift+Throw+Blanket",
+    "stock": 7,
+    "featured": false
+  },
+  {
+    "id": "pulse-headphones",
+    "name": "Pulse Headphones",
+    "description": "Over-ear noise-canceling headphones with plush memory foam cushions and fast charging.",
+    "price": 219,
+    "category": "Audio",
+    "image": "https://placehold.co/900x900/e5e7eb/111827?text=Pulse+Headphones",
+    "stock": 6,
+    "featured": true
+  },
+  {
+    "id": "atlas-passport-wallet",
+    "name": "Atlas Passport Wallet",
+    "description": "A slim leather travel wallet with RFID blocking, boarding pass sleeve, and coin pocket.",
+    "price": 58,
+    "category": "Travel",
+    "image": "https://placehold.co/900x900/fee2e2/7f1d1d?text=Atlas+Passport+Wallet",
+    "stock": 15,
+    "featured": false
+  },
+  {
+    "id": "meadow-aroma-diffuser",
+    "name": "Meadow Aroma Diffuser",
+    "description": "A quiet ultrasonic diffuser with ambient glow, timer presets, and a matte ceramic finish.",
+    "price": 64,
+    "category": "Wellness",
+    "image": "https://placehold.co/900x900/ede9fe/4c1d95?text=Meadow+Aroma+Diffuser",
+    "stock": 13,
+    "featured": false
+  }
+]
