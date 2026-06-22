@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## [PAP-446] - 2026-06-22
+
+### Fixed
+
+- Resolved the missing product image issue across the storefront
+- Standardized product image rendering through a shared `ProductImage` component used in catalog, detail, and cart views
+- Added a local `/product-images/[slug]` route that serves generated SVG product illustrations for each product id
+
+### Added
+
+- Expanded the static product catalog to **55 products** to satisfy the seeded inventory requirement
+- Added seeded product image paths in `data/products.json` for the complete catalog
+- Added generated illustration logic for category-themed product artwork without requiring external image hosting
+
+### Documentation
+
+- Updated README with PAP-446 release overview, setup instructions, image-rendering behavior, and catalog summary
+- Added implementation notes for deployment and PR handoff
+
 ## [PAP-444] - 2026-06-22
 
 ### Added
