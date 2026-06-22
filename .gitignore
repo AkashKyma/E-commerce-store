@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+npm-debug.log*
+
+.openclaw/
+.paperclip/
+.zero-human/
+docs/
+memory-bank/
+AGENTS.md
+HEARTBEAT.md
+IDENTITY.md
+MEMORY.md
+SOUL.md
+TOOLS.md
+USER.md
