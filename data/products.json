@@ -5,7 +5,7 @@
     "description": "An adjustable aluminum desk lamp with warm and cool light modes for focused work and late-night reading.",
     "price": 79,
     "category": "Workspace",
-    "image": "https://placehold.co/900x900/e2e8f0/0f172a?text=Aurora+Desk+Lamp",
+    "image": "/product-images/aurora-desk-lamp",
     "stock": 14,
     "featured": true
   },
@@ -15,7 +15,7 @@
     "description": "A set of three cloth-bound notebooks with dotted paper, perfect for planning, sketching, or journaling.",
     "price": 28,
     "category": "Workspace",
-    "image": "https://placehold.co/900x900/f5f5f4/1f2937?text=Linen+Notebook+Set",
+    "image": "/product-images/linen-notebook-set",
     "stock": 32,
     "featured": false
   },
@@ -25,7 +25,7 @@
     "description": "A hand-finished ceramic mug with a rippled grip and a generous capacity for coffee or tea.",
     "price": 24,
     "category": "Home",
-    "image": "https://placehold.co/900x900/fafaf9/0f172a?text=Ripple+Ceramic+Mug",
+    "image": "/product-images/ripple-ceramic-mug",
     "stock": 20,
     "featured": false
   },
@@ -35,7 +35,7 @@
     "description": "A compact wireless speaker with rich bass, USB-C charging, and 14 hours of battery life.",
     "price": 129,
     "category": "Audio",
-    "image": "https://placehold.co/900x900/e0f2fe/082f49?text=Solstice+Speaker",
+    "image": "/product-images/solstice-speaker",
     "stock": 9,
     "featured": true
   },
@@ -45,17 +45,17 @@
     "description": "A water-resistant 20L backpack with padded laptop sleeve, quick-access pockets, and hidden passport storage.",
     "price": 148,
     "category": "Travel",
-    "image": "https://placehold.co/900x900/ede9fe/312e81?text=Wayfinder+Backpack",
+    "image": "/product-images/wayfinder-backpack",
     "stock": 11,
     "featured": true
   },
   {
-    "id": "glide-mouse",
+    "id": "glide-wireless-mouse",
     "name": "Glide Wireless Mouse",
     "description": "An ergonomic wireless mouse with silent clicks, programmable buttons, and precision tracking.",
     "price": 54,
     "category": "Workspace",
-    "image": "https://placehold.co/900x900/ecfccb/365314?text=Glide+Wireless+Mouse",
+    "image": "/product-images/glide-wireless-mouse",
     "stock": 18,
     "featured": false
   },
@@ -65,7 +65,7 @@
     "description": "A modular cable tray and clip set that keeps chargers, hubs, and cords tucked neatly away.",
     "price": 34,
     "category": "Workspace",
-    "image": "https://placehold.co/900x900/fef3c7/78350f?text=Cove+Cable+Organizer",
+    "image": "/product-images/cove-cable-organizer",
     "stock": 40,
     "featured": false
   },
@@ -75,7 +75,7 @@
     "description": "A double-wall stainless steel bottle that keeps drinks cold for 24 hours and hot for 12.",
     "price": 32,
     "category": "Wellness",
-    "image": "https://placehold.co/900x900/d1fae5/064e3b?text=Summit+Water+Bottle",
+    "image": "/product-images/summit-water-bottle",
     "stock": 26,
     "featured": false
   },
@@ -85,7 +85,7 @@
     "description": "A soft woven blanket with a breathable cotton blend and reversible tonal pattern.",
     "price": 86,
     "category": "Home",
-    "image": "https://placehold.co/900x900/fce7f3/831843?text=Drift+Throw+Blanket",
+    "image": "/product-images/drift-throw-blanket",
     "stock": 7,
     "featured": false
   },
@@ -95,7 +95,7 @@
     "description": "Over-ear noise-canceling headphones with plush memory foam cushions and fast charging.",
     "price": 219,
     "category": "Audio",
-    "image": "https://placehold.co/900x900/e5e7eb/111827?text=Pulse+Headphones",
+    "image": "/product-images/pulse-headphones",
     "stock": 6,
     "featured": true
   },
@@ -105,7 +105,7 @@
     "description": "A slim leather travel wallet with RFID blocking, boarding pass sleeve, and coin pocket.",
     "price": 58,
     "category": "Travel",
-    "image": "https://placehold.co/900x900/fee2e2/7f1d1d?text=Atlas+Passport+Wallet",
+    "image": "/product-images/atlas-passport-wallet",
     "stock": 15,
     "featured": false
   },
@@ -115,8 +115,438 @@
     "description": "A quiet ultrasonic diffuser with ambient glow, timer presets, and a matte ceramic finish.",
     "price": 64,
     "category": "Wellness",
-    "image": "https://placehold.co/900x900/ede9fe/4c1d95?text=Meadow+Aroma+Diffuser",
+    "image": "/product-images/meadow-aroma-diffuser",
     "stock": 13,
+    "featured": false
+  },
+  {
+    "id": "harbor-standing-desk",
+    "name": "Harbor Standing Desk",
+    "description": "An oak-finish sit-stand desk with dual motors, cable ports, and three memory presets.",
+    "price": 649,
+    "category": "Workspace",
+    "image": "/product-images/harbor-standing-desk",
+    "stock": 5,
+    "featured": false
+  },
+  {
+    "id": "ember-mechanical-keyboard",
+    "name": "Ember Mechanical Keyboard",
+    "description": "A low-profile mechanical keyboard with hot-swappable switches, gasket mount, and warm white backlighting.",
+    "price": 169,
+    "category": "Workspace",
+    "image": "/product-images/ember-mechanical-keyboard",
+    "stock": 10,
+    "featured": false
+  },
+  {
+    "id": "orbit-monitor-arm",
+    "name": "Orbit Monitor Arm",
+    "description": "A gas-spring monitor arm with hidden cable routing and a wide range of motion for ergonomic setups.",
+    "price": 112,
+    "category": "Workspace",
+    "image": "/product-images/orbit-monitor-arm",
+    "stock": 17,
+    "featured": false
+  },
+  {
+    "id": "arc-desk-pad",
+    "name": "Arc Desk Pad",
+    "description": "A vegan leather desk pad that protects surfaces and adds a smooth writing and mousing area.",
+    "price": 42,
+    "category": "Workspace",
+    "image": "/product-images/arc-desk-pad",
+    "stock": 28,
+    "featured": false
+  },
+  {
+    "id": "tidal-webcam-light",
+    "name": "Tidal Webcam Light",
+    "description": "A clip-on streaming light with edge diffusion, adjustable color temperature, and touch controls.",
+    "price": 69,
+    "category": "Workspace",
+    "image": "/product-images/tidal-webcam-light",
+    "stock": 22,
+    "featured": false
+  },
+  {
+    "id": "quill-pen-tray",
+    "name": "Quill Pen Tray",
+    "description": "A walnut catchall tray that keeps pens, AirPods, and cables in one tidy place.",
+    "price": 26,
+    "category": "Workspace",
+    "image": "/product-images/quill-pen-tray",
+    "stock": 34,
+    "featured": false
+  },
+  {
+    "id": "cedar-bookshelf",
+    "name": "Cedar Bookshelf",
+    "description": "A slim five-shelf bookcase with rounded edges and adjustable feet for uneven floors.",
+    "price": 289,
+    "category": "Home",
+    "image": "/product-images/cedar-bookshelf",
+    "stock": 8,
+    "featured": false
+  },
+  {
+    "id": "tidewall-art-print",
+    "name": "Tidewall Art Print",
+    "description": "A gallery-quality abstract print with soft ocean tones and heavyweight archival paper.",
+    "price": 58,
+    "category": "Decor",
+    "image": "/product-images/tidewall-art-print",
+    "stock": 19,
+    "featured": false
+  },
+  {
+    "id": "mason-serving-board",
+    "name": "Mason Serving Board",
+    "description": "A hand-oiled acacia serving board sized for cheese spreads, bread, and casual dinners.",
+    "price": 44,
+    "category": "Kitchen",
+    "image": "/product-images/mason-serving-board",
+    "stock": 21,
+    "featured": false
+  },
+  {
+    "id": "halo-floor-lamp",
+    "name": "Halo Floor Lamp",
+    "description": "A sculptural floor lamp with a dimmable halo shade and slim brass stem.",
+    "price": 194,
+    "category": "Home",
+    "image": "/product-images/halo-floor-lamp",
+    "stock": 9,
+    "featured": false
+  },
+  {
+    "id": "pebble-side-table",
+    "name": "Pebble Side Table",
+    "description": "A compact powder-coated steel side table with a hidden handle for easy room-to-room moves.",
+    "price": 132,
+    "category": "Home",
+    "image": "/product-images/pebble-side-table",
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": "fern-planter-set",
+    "name": "Fern Planter Set",
+    "description": "A trio of matte stoneware planters sized for herbs, succulents, and small tabletop plants.",
+    "price": 49,
+    "category": "Home",
+    "image": "/product-images/fern-planter-set",
+    "stock": 25,
+    "featured": false
+  },
+  {
+    "id": "luma-bedside-carafe",
+    "name": "Luma Bedside Carafe",
+    "description": "A hand-blown glass carafe with nesting tumbler so cold water is always within reach.",
+    "price": 38,
+    "category": "Home",
+    "image": "/product-images/luma-bedside-carafe",
+    "stock": 29,
+    "featured": false
+  },
+  {
+    "id": "cloud-linen-sheet-set",
+    "name": "Cloud Linen Sheet Set",
+    "description": "A breathable washed-linen sheet set that gets softer with every laundry cycle.",
+    "price": 188,
+    "category": "Bedroom",
+    "image": "/product-images/cloud-linen-sheet-set",
+    "stock": 16,
+    "featured": false
+  },
+  {
+    "id": "dusk-blackout-curtains",
+    "name": "Dusk Blackout Curtains",
+    "description": "A pair of textured blackout curtains that soften daylight and support deeper sleep.",
+    "price": 96,
+    "category": "Bedroom",
+    "image": "/product-images/dusk-blackout-curtains",
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": "frame-photo-set",
+    "name": "Frame Photo Set",
+    "description": "A coordinated set of three oak frames with glass fronts for gallery wall arrangements.",
+    "price": 68,
+    "category": "Decor",
+    "image": "/product-images/frame-photo-set",
+    "stock": 24,
+    "featured": false
+  },
+  {
+    "id": "atlas-wall-clock",
+    "name": "Atlas Wall Clock",
+    "description": "A silent-sweep wall clock with minimalist numerals and a softly brushed metal rim.",
+    "price": 72,
+    "category": "Decor",
+    "image": "/product-images/atlas-wall-clock",
+    "stock": 14,
+    "featured": false
+  },
+  {
+    "id": "echo-earbuds",
+    "name": "Echo Earbuds",
+    "description": "Compact true wireless earbuds with transparency mode, six microphones, and fast pair support.",
+    "price": 149,
+    "category": "Audio",
+    "image": "/product-images/echo-earbuds",
+    "stock": 30,
+    "featured": false
+  },
+  {
+    "id": "ember-soundbar",
+    "name": "Ember Soundbar",
+    "description": "A low-profile TV soundbar with HDMI ARC, dialogue enhancement, and room-filling output.",
+    "price": 249,
+    "category": "Audio",
+    "image": "/product-images/ember-soundbar",
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": "prism-turntable",
+    "name": "Prism Turntable",
+    "description": "A belt-drive turntable with built-in phono preamp, anti-skate tuning, and acrylic platter.",
+    "price": 359,
+    "category": "Audio",
+    "image": "/product-images/prism-turntable",
+    "stock": 7,
+    "featured": false
+  },
+  {
+    "id": "nova-microphone",
+    "name": "Nova Microphone",
+    "description": "A USB-C condenser microphone with tap-to-mute control and interchangeable pickup patterns.",
+    "price": 139,
+    "category": "Audio",
+    "image": "/product-images/nova-microphone",
+    "stock": 20,
+    "featured": false
+  },
+  {
+    "id": "meridian-record-stand",
+    "name": "Meridian Record Stand",
+    "description": "A compact vinyl stand that displays a now-playing album while storing favorite records below.",
+    "price": 88,
+    "category": "Audio",
+    "image": "/product-images/meridian-record-stand",
+    "stock": 11,
+    "featured": false
+  },
+  {
+    "id": "trail-weekender-bag",
+    "name": "Trail Weekender Bag",
+    "description": "A structured canvas duffel with shoe compartment, trolley sleeve, and detachable shoulder strap.",
+    "price": 118,
+    "category": "Travel",
+    "image": "/product-images/trail-weekender-bag",
+    "stock": 13,
+    "featured": false
+  },
+  {
+    "id": "northstar-packing-cubes",
+    "name": "Northstar Packing Cubes",
+    "description": "A lightweight six-piece packing cube set with mesh tops and compression zippers.",
+    "price": 46,
+    "category": "Travel",
+    "image": "/product-images/northstar-packing-cubes",
+    "stock": 33,
+    "featured": false
+  },
+  {
+    "id": "rover-luggage-tag",
+    "name": "Rover Luggage Tag",
+    "description": "A durable luggage tag with privacy flap, steel loop, and bright colorways for easy spotting.",
+    "price": 18,
+    "category": "Travel",
+    "image": "/product-images/rover-luggage-tag",
+    "stock": 52,
+    "featured": false
+  },
+  {
+    "id": "skyline-toiletry-kit",
+    "name": "Skyline Toiletry Kit",
+    "description": "A hanging travel organizer with clear compartments and a wipe-clean water-resistant lining.",
+    "price": 39,
+    "category": "Travel",
+    "image": "/product-images/skyline-toiletry-kit",
+    "stock": 27,
+    "featured": false
+  },
+  {
+    "id": "metro-crossbody-bag",
+    "name": "Metro Crossbody Bag",
+    "description": "A slim everyday crossbody with expandable gusset, key leash, and padded tablet sleeve.",
+    "price": 92,
+    "category": "Travel",
+    "image": "/product-images/metro-crossbody-bag",
+    "stock": 17,
+    "featured": false
+  },
+  {
+    "id": "shore-passport-holder",
+    "name": "Shore Passport Holder",
+    "description": "A recycled nylon passport folio with card slots, pen loop, and zip pouch for loose currency.",
+    "price": 36,
+    "category": "Travel",
+    "image": "/product-images/shore-passport-holder",
+    "stock": 26,
+    "featured": false
+  },
+  {
+    "id": "breeze-yoga-mat",
+    "name": "Breeze Yoga Mat",
+    "description": "A natural rubber yoga mat with alignment guides and a grippy top layer for hot classes.",
+    "price": 82,
+    "category": "Wellness",
+    "image": "/product-images/breeze-yoga-mat",
+    "stock": 23,
+    "featured": false
+  },
+  {
+    "id": "calm-weighted-eye-mask",
+    "name": "Calm Weighted Eye Mask",
+    "description": "A flaxseed-filled eye mask with washable cover for gentle pressure and evening wind-downs.",
+    "price": 29,
+    "category": "Wellness",
+    "image": "/product-images/calm-weighted-eye-mask",
+    "stock": 31,
+    "featured": false
+  },
+  {
+    "id": "spruce-resistance-bands",
+    "name": "Spruce Resistance Bands",
+    "description": "A five-band training set with door anchor, handles, and a travel pouch for compact workouts.",
+    "price": 48,
+    "category": "Wellness",
+    "image": "/product-images/spruce-resistance-bands",
+    "stock": 35,
+    "featured": false
+  },
+  {
+    "id": "zen-foam-roller",
+    "name": "Zen Foam Roller",
+    "description": "A medium-density textured roller designed to release tension after long days and hard sessions.",
+    "price": 37,
+    "category": "Wellness",
+    "image": "/product-images/zen-foam-roller",
+    "stock": 28,
+    "featured": false
+  },
+  {
+    "id": "hush-white-noise-machine",
+    "name": "Hush White Noise Machine",
+    "description": "A bedside sound machine with eight sleep tracks, warm night light, and simple tactile controls.",
+    "price": 57,
+    "category": "Wellness",
+    "image": "/product-images/hush-white-noise-machine",
+    "stock": 16,
+    "featured": false
+  },
+  {
+    "id": "cove-meditation-cushion",
+    "name": "Cove Meditation Cushion",
+    "description": "A buckwheat-filled floor cushion with washable cover and carry handle for quiet daily sits.",
+    "price": 63,
+    "category": "Wellness",
+    "image": "/product-images/cove-meditation-cushion",
+    "stock": 14,
+    "featured": false
+  },
+  {
+    "id": "ember-espresso-maker",
+    "name": "Ember Espresso Maker",
+    "description": "A stovetop espresso maker with heat-resistant handle and polished stainless steel body.",
+    "price": 52,
+    "category": "Kitchen",
+    "image": "/product-images/ember-espresso-maker",
+    "stock": 19,
+    "featured": false
+  },
+  {
+    "id": "olive-oil-cruet",
+    "name": "Olive Oil Cruet",
+    "description": "A ceramic countertop cruet with drip-free spout that keeps olive oil close while cooking.",
+    "price": 31,
+    "category": "Kitchen",
+    "image": "/product-images/olive-oil-cruet",
+    "stock": 22,
+    "featured": false
+  },
+  {
+    "id": "quartz-chef-knife",
+    "name": "Quartz Chef Knife",
+    "description": "An 8-inch chef knife with full tang construction, balanced grip, and razor-sharp steel blade.",
+    "price": 98,
+    "category": "Kitchen",
+    "image": "/product-images/quartz-chef-knife",
+    "stock": 15,
+    "featured": false
+  },
+  {
+    "id": "willow-salad-bowl",
+    "name": "Willow Salad Bowl",
+    "description": "A generously sized mango wood serving bowl with hand-rubbed finish and matching servers.",
+    "price": 61,
+    "category": "Kitchen",
+    "image": "/product-images/willow-salad-bowl",
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": "coast-picnic-blanket",
+    "name": "Coast Picnic Blanket",
+    "description": "A roll-up picnic blanket with water-resistant base, woven top, and leather carry straps.",
+    "price": 74,
+    "category": "Outdoors",
+    "image": "/product-images/coast-picnic-blanket",
+    "stock": 12,
+    "featured": false
+  },
+  {
+    "id": "ridge-camp-lantern",
+    "name": "Ridge Camp Lantern",
+    "description": "A rechargeable lantern with adjustable brightness, hanging hook, and long-lasting battery.",
+    "price": 59,
+    "category": "Outdoors",
+    "image": "/product-images/ridge-camp-lantern",
+    "stock": 20,
+    "featured": false
+  },
+  {
+    "id": "shore-hammock",
+    "name": "Shore Hammock",
+    "description": "A portable hammock woven from quick-dry fabric with tree straps and compact stuff sack.",
+    "price": 67,
+    "category": "Outdoors",
+    "image": "/product-images/shore-hammock",
+    "stock": 18,
+    "featured": false
+  },
+  {
+    "id": "summit-trekking-poles",
+    "name": "Summit Trekking Poles",
+    "description": "A collapsible aluminum trekking pole pair with cork grips and carbide trail tips.",
+    "price": 94,
+    "category": "Outdoors",
+    "image": "/product-images/summit-trekking-poles",
+    "stock": 11,
+    "featured": false
+  },
+  {
+    "id": "cinder-firepit-table",
+    "name": "Cinder Firepit Table",
+    "description": "A low-profile propane firepit table with lava rocks, weather cover, and hidden tank storage.",
+    "price": 429,
+    "category": "Outdoors",
+    "image": "/product-images/cinder-firepit-table",
+    "stock": 4,
     "featured": false
   }
 ]

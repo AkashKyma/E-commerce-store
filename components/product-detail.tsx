@@ -1,7 +1,7 @@
 'use client';
 
-import Image from 'next/image';
 import { useEffect, useState } from 'react';
+import { ProductImage } from '@/components/product-image';
 import { useCart } from '@/components/cart-provider';
 import { QuantitySelector } from '@/components/quantity-selector';
 import { Toast } from '@/components/toast';
@@ -32,14 +32,8 @@ export function ProductDetail({ product }: { product: Product }) {
   return (
     <>
       <section className="grid gap-10 lg:grid-cols-[1fr_0.9fr] lg:items-start">
-        <div className="relative aspect-square overflow-hidden rounded-[2rem] bg-white shadow-soft">
-          <Image
-            src={product.image}
-            alt={product.name}
-            fill
-            className="object-cover"
-            sizes="(max-width: 1024px) 100vw, 50vw"
-          />
+        <div className="aspect-square overflow-hidden rounded-[2rem] bg-white shadow-soft">
+          <ProductImage src={product.image} alt={product.name} className="h-full w-full object-cover" priority />
         </div>
 
         <div className="space-y-6 rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm sm:p-8">

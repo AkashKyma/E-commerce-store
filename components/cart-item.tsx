@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import { ProductImage } from '@/components/product-image';
 import { QuantitySelector } from '@/components/quantity-selector';
 import type { CartProduct } from '@/src/types';
 import { formatCurrency } from '@/src/utils';
@@ -12,8 +12,8 @@ type CartItemProps = {
 export function CartItem({ item, onQuantityChange, onRemove }: CartItemProps) {
   return (
     <article className="flex flex-col gap-5 rounded-3xl border border-slate-200 bg-white p-5 shadow-sm sm:flex-row">
-      <div className="relative h-28 overflow-hidden rounded-2xl bg-slate-100 sm:w-28">
-        <Image src={item.image} alt={item.name} fill className="object-cover" sizes="112px" />
+      <div className="h-28 overflow-hidden rounded-2xl bg-slate-100 sm:w-28">
+        <ProductImage src={item.image} alt={item.name} className="h-full w-full object-cover" />
       </div>
 
       <div className="flex flex-1 flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
