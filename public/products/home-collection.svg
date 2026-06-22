@@ -1,0 +1,10 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="72" fill="#FEF3C7"/>
+  <rect x="160" y="260" width="880" height="500" rx="56" fill="#FFF7ED"/>
+  <rect x="220" y="580" width="760" height="140" rx="30" fill="#C2410C" opacity="0.18"/>
+  <circle cx="380" cy="500" r="120" fill="#FB923C" opacity="0.85"/>
+  <rect x="560" y="360" width="220" height="260" rx="110" fill="#FED7AA"/>
+  <rect x="800" y="430" width="120" height="190" rx="60" fill="#7C2D12" opacity="0.85"/>
+  <text x="120" y="980" fill="#7C2D12" font-family="Arial, sans-serif" font-size="88" font-weight="700">Home Collection</text>
+  <text x="120" y="1060" fill="#9A3412" font-family="Arial, sans-serif" font-size="40">Warm accents and everyday comfort pieces.</text>
+</svg>
