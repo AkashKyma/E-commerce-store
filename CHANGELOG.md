@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## [PAP-447] - 2026-06-23
+
+### Added
+
+- Organized the storefront catalog into requested category groups for easier browsing
+- Documented category coverage for Fashion, Electronics, Men Wear, Womens, and Decor Items
+- Expanded the seeded inventory target to **100 products**
+- Documented the use of actual product images instead of random placeholder assets
+
+### Improved
+
+- Strengthened the merchandising structure so shoppers can browse by clearer category groupings
+- Improved release documentation to reflect the larger seeded catalog and category-based shopping experience
+
+### Documentation
+
+- Updated README with PAP-447 release overview, setup instructions, category summary, seeded product expectations, and release notes
+- Added deployment-facing implementation notes for documentation and handoff clarity
+
 ## [PAP-446] - 2026-06-22
 
 ### Fixed
