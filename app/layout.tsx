@@ -7,7 +7,7 @@ import { Navbar } from '@/components/navbar';
 
 export const metadata: Metadata = {
   title: 'Cascade Store',
-  description: 'A polished client-side storefront built with Next.js and TypeScript.'
+  description: 'A category-first storefront with 100 seeded fashion, electronics, men wear, women wear, and decor products.'
 };
 
 export default function RootLayout({

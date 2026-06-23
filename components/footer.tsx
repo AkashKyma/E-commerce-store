@@ -6,7 +6,7 @@ export function Footer() {
       <div className="mx-auto flex max-w-7xl flex-col gap-4 px-4 py-8 text-sm text-slate-500 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
         <div>
           <p className="font-medium text-slate-900">Cascade Store</p>
-          <p>Minimal essentials for home, work, and travel.</p>
+          <p>Fashion, electronics, men wear, women wear, and decor items in one storefront.</p>
         </div>
         <div className="flex flex-wrap items-center gap-4">
           <Link href="/products" className="transition hover:text-slate-900">
