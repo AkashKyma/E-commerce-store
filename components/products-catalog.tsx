@@ -23,7 +23,7 @@ export function ProductsCatalog({
             <h1 className="text-3xl font-semibold text-slate-900">All products</h1>
             <p className="mt-2 text-sm text-slate-500">
               Showing {products.length} product{products.length === 1 ? '' : 's'}
-              {activeCategory !== 'All' ? ` in ${activeCategory}` : ''}.
+              {activeCategory !== 'All' ? ` in ${activeCategory}` : ' across 5 categories'}.
             </p>
           </div>
           <SortDropdown activeSort={activeSort} activeCategory={activeCategory} />

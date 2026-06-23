@@ -12,10 +12,10 @@ export default function HomePage() {
         <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
           <div>
             <p className="text-sm font-semibold uppercase tracking-[0.2em] text-teal-700">Featured Products</p>
-            <h2 className="mt-2 text-3xl font-semibold text-slate-900">Four customer favorites, ready to ship.</h2>
+            <h2 className="mt-2 text-3xl font-semibold text-slate-900">Top picks from the newest category-driven catalog.</h2>
           </div>
           <Link href="/products" className="text-sm font-semibold text-slate-700 transition hover:text-slate-900">
-            Browse the full catalog →
+            Browse all 100 products →
           </Link>
         </div>
         <ProductGrid products={featuredProducts} />

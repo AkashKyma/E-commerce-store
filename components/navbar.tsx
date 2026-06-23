@@ -21,7 +21,7 @@ export function Navbar() {
           </span>
           <div>
             <p className="text-lg font-semibold text-slate-900">Cascade Store</p>
-            <p className="text-xs text-slate-500">Thoughtful everyday gear</p>
+            <p className="text-xs text-slate-500">100 products across 5 categories</p>
           </div>
         </Link>
 
